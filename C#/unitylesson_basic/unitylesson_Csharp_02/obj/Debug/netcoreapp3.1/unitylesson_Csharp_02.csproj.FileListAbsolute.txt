@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\Unitylesson1\C#\unitylesson_basic\unitylesson_Csharp_02\bin\Debug\netcoreapp3.1\unitylesson_Csharp_02.exe
+C:\Users\Admin\Documents\GitHub\Unitylesson1\C#\unitylesson_basic\unitylesson_Csharp_02\bin\Debug\netcoreapp3.1\unitylesson_Csharp_02.deps.json
+C:\Users\Admin\Documents\GitHub\Unitylesson1\C#\unitylesson_basic\unitylesson_Csharp_02\bin\Debug\netcoreapp3.1\unitylesson_Csharp_02.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\Unitylesson1\C#\unitylesson_basic\unitylesson_Csharp_02\bin\Debug\netcoreapp3.1\unitylesson_Csharp_02.runtimeconfig.dev.json
+C:\Users\Admin\Documents\GitHub\Unitylesson1\C#\unitylesson_basic\unitylesson_Csharp_02\bin\Debug\netcoreapp3.1\unitylesson_Csharp_02.dll
+C:\Users\Admin\Documents\GitHub\Unitylesson1\C#\unitylesson_basic\unitylesson_Csharp_02\bin\Debug\netcoreapp3.1\unitylesson_Csharp_02.pdb
+C:\Users\Admin\Documents\GitHub\Unitylesson1\C#\unitylesson_basic\unitylesson_Csharp_02\obj\Debug\netcoreapp3.1\unitylesson_Csharp_02.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Unitylesson1\C#\unitylesson_basic\unitylesson_Csharp_02\obj\Debug\netcoreapp3.1\unitylesson_Csharp_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\Unitylesson1\C#\unitylesson_basic\unitylesson_Csharp_02\obj\Debug\netcoreapp3.1\unitylesson_Csharp_02.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\Unitylesson1\C#\unitylesson_basic\unitylesson_Csharp_02\obj\Debug\netcoreapp3.1\unitylesson_Csharp_02.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Unitylesson1\C#\unitylesson_basic\unitylesson_Csharp_02\obj\Debug\netcoreapp3.1\unitylesson_Csharp_02.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Unitylesson1\C#\unitylesson_basic\unitylesson_Csharp_02\obj\Debug\netcoreapp3.1\unitylesson_Csharp_02.dll
+C:\Users\Admin\Documents\GitHub\Unitylesson1\C#\unitylesson_basic\unitylesson_Csharp_02\obj\Debug\netcoreapp3.1\unitylesson_Csharp_02.pdb
+C:\Users\Admin\Documents\GitHub\Unitylesson1\C#\unitylesson_basic\unitylesson_Csharp_02\obj\Debug\netcoreapp3.1\unitylesson_Csharp_02.genruntimeconfig.cache
